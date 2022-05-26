@@ -1,0 +1,2 @@
+# Seguros
+ React-Native community
